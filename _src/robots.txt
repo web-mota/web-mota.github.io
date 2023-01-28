@@ -1,0 +1,29 @@
+
+User-agent: *
+Disallow: /
+
+User-agent: GoogleBot
+Disallow: /
+
+User-agent: APIs-Google
+User-agent: AdsBot-Google
+User-agent: Mediapartners-Google
+User-agent: Storebot-Google
+Disallow: /
+
+User-agent: AdidxBot
+User-agent: BingBot
+User-agent: MSNBot
+Disallow: /
+
+User-agent: 360Spider
+User-agent: BaiduSpider
+User-agent: Slurp
+User-agent: Sogou
+User-agent: SogouSpider
+User-agent: SosoSpider
+User-agent: Yahoo!
+User-agent: YisouSpider
+User-agent: YodaoBot
+User-agent: YoudaoBot
+Disallow: /
